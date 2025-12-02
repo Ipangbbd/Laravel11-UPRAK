@@ -165,13 +165,12 @@ Jalankan unit/integration tests:
 php artisan test
 # atau
 vendor\bin\phpunit
+```
 
 ---
 
 ## Tambahan Testing (Postman) 🧪
 Berikut contoh tangkapan layar (screenshots) hasil request Postman yang menunjukkan endpoint GET dan POST bekerja sesuai ekspektasi.
-
-> Letakkan `SS-GET.png` dan `SS-POST.png` di root repository agar gambar dapat di-render oleh README.
 
 **GET Request (Contoh):**
 ![GET Request](SS-GET.png)
@@ -180,7 +179,6 @@ Berikut contoh tangkapan layar (screenshots) hasil request Postman yang menunjuk
 ![POST Request](SS-POST.png)
 
 Jika Anda ingin, saya dapat menambahkan contoh koleksi Postman atau file exported `.json` untuk reproducibility.
-```
 
 ## Deployment & Production Tips 🚀
 - Jalankan `npm run build` sebelum deploy untuk mengumpulkan assets Vite:
