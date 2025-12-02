@@ -204,7 +204,7 @@ composer exec -- laravel/pint
 - Berkontribusi melalui pull requests; buka issue untuk fitur/perbaikan.
 
 ## Lisensi 📜
-Proyek ini dilisensikan di bawah MIT License (lihat `composer.json`).
+Proyek ini dilisensikan di bawah MIT License Ali. Lihat `LICENSE.md` untuk detail.
 
 ---
 
