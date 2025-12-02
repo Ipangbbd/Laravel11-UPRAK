@@ -182,8 +182,6 @@ Berikut contoh tangkapan layar (screenshots) hasil request Postman yang menunjuk
 **POST Request (Contoh):**
 ![POST Request](SS-POST.png)
 
-Jika Anda ingin, saya dapat menambahkan contoh koleksi Postman atau file exported `.json` untuk reproducibility.
-
 ## Deployment & Production Tips 🚀
 - Jalankan `npm run build` sebelum deploy untuk mengumpulkan assets Vite:
 
@@ -209,7 +207,5 @@ composer exec -- laravel/pint
 Proyek ini dilisensikan di bawah MIT License (lihat `composer.json`).
 
 ---
-
-Jika Anda ingin dokumentasi tambahan (API docs, deployment script, Docker), beri tahu saya dan saya akan menambahkannya. 👍
 
 Terima kasih! 🙏
