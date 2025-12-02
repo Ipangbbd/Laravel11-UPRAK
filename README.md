@@ -7,7 +7,7 @@ Catatan: Bahasa UI di dalam aplikasi ini menggunakan Bahasa Indonesia.
 
 ---
 
-## Fitur Utama ✅
+## Fitur Utama 
 - Manajemen barang (CRUD: buat, baca, update, hapus)
 - Manajemen kategori (CRUD)
 - Manajemen peminjaman barang (pinjam/kembali)
@@ -15,7 +15,11 @@ Catatan: Bahasa UI di dalam aplikasi ini menggunakan Bahasa Indonesia.
 - Otentikasi standar Laravel (login/register)
 - Seed user & role default untuk pengujian
 
-## Teknologi & Dependensi 🔧
+## Study Case & Documentation 📚
+- See `ORION_STUDY_CASE.md` for details about API endpoints implemented using Laravel Orion.
+- See `APP_STUDY_CASE.md` for a full study case covering backend, frontend, controllers, requests, migrations, and seeders.
+
+## Teknologi & Dependensi 
 - PHP ^8.2
 - Laravel ^11.x
 - Spatie Laravel Permission
@@ -23,13 +27,13 @@ Catatan: Bahasa UI di dalam aplikasi ini menggunakan Bahasa Indonesia.
 - Tailwind CSS, Bootstrap, Vite
 - Postman untuk testing
 
-## Persyaratan Sistem 📋
+## Persyaratan Sistem 
 - PHP 8.2+
 - Composer
 - Node.js & npm
 - Database: MySQL (direkomendasikan) atau SQLite/PostgreSQL
 
-## Setup & Instalasi (Windows - PowerShell) 🛠️
+## Setup & Instalasi (Windows - PowerShell) 
 1. Clone repository:
 
 ```powershell
