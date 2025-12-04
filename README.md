@@ -2,6 +2,7 @@
 
 Selamat datang di Aplikasi Inventory Management — sebuah aplikasi berbasis Laravel untuk
 mengelola barang, kategori, peminjaman, user, dan roles/permissions.
+Demo App [https://youtu.be/UCGZLscGlko?si=TpdboMiy4woihuLs]
 
 Catatan: Bahasa UI di dalam aplikasi ini menggunakan Bahasa Indonesia.
 
